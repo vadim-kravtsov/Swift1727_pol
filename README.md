@@ -6,7 +6,7 @@ in range of 1.5 to 3 kpc, which we use as an interstellar polarization estimate.
 
 ![alt text](https://github.com/vadim-kravtsov/Swift1727_pol/blob/main/Swift1727_quplane.png)
 
-Figure 2: Variations of Stokes parameters of the observed polarization of Swift JJ1727.8-1613 in B, V, and R bands (from top to bottom). The errors are 1 sigma. 
+Figure 2: Variations of the intrinsic (after subtracting the ISM contribution) PD and PA of optical polarization of Swift JJ1727.8-1613 in B, V, and R bands (from top to bottom). The errors are 1 sigma. 
 
-![alt text](https://github.com/vadim-kravtsov/Swift1727_pol/blob/main/lightcurve_stokes.png)
+![alt text](https://github.com/vadim-kravtsov/Swift1727_pol/blob/main/lightcurve.png)
 
